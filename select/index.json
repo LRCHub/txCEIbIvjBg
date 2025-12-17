@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ラヴィ (すりぃ ver.)",
+  "base_artist": "すりぃ",
+  "createdAt": "2025-12-17T12:45:38.510581Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ラヴィ (すりぃ ver.)",
+      "artist": "すりぃ",
+      "has_synced": false,
+      "path": "select/01_ラヴィ_(すりぃ_ver.)_すりぃ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ラヴィ",
+      "artist": "すりぃ",
+      "has_synced": false,
+      "path": "select/pl_01_ラヴィ_すりぃ.txt"
+    }
+  ]
+}
